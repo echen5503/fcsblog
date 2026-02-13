@@ -130,10 +130,3 @@ By integrating open benchmarking with competitive optimization dynamics, Frontie
 
 We look forward to deepening this collaboration and continuing to develop Frontier-CS as a benchmark that meaningfully captures evolving intelligence across domains.
 
----
-
-If you'd like, I can also:
-
-* Make this slightly more formal and ICML/NeurIPS-blog style
-* Tighten it further into a sharper announcement tone
-* Or add a short technical paragraph on scoring mechanics and evaluation reproducibility
